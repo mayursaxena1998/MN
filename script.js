@@ -11,7 +11,7 @@ const questions = [
 
 const images = [
   //"assets/NM.jpeg",
-  //"assets/p1.jpeg",
+  "assets/p1.jpeg",
   "assets/p2.jpeg",
   "assets/p3.jpeg",
 ];
